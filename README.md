@@ -1,2 +1,2 @@
-# Leran-pytorch
+# Learn-pytorch
 王魁
